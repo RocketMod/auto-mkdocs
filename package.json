@@ -1,0 +1,24 @@
+{
+  "name": "auto-mkdocs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RocketMod/auto-mkdocs.git"
+  },
+  "author": "Sven Mawby",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RocketMod/auto-mkdocs/issues"
+  },
+  "homepage": "https://github.com/RocketMod/auto-mkdocs#readme",
+  "dependencies": {
+    "del": "^3.0.0",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3"
+  }
+}
