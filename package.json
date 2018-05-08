@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RocketMod/auto-mkdocs.git"
+    "url": "git+https://github.com/fr34kyn01535/auto-mkdocs.git"
   },
   "author": "Sven Mawby",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RocketMod/auto-mkdocs/issues"
+    "url": "https://github.com/fr34kyn01535/auto-mkdocs/issues"
   },
-  "homepage": "https://github.com/RocketMod/auto-mkdocs#readme",
+  "homepage": "https://github.com/fr34kyn01535/auto-mkdocs#readme",
   "dependencies": {
     "del": "^3.0.0",
     "dotenv": "^5.0.1",
