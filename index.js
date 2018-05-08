@@ -11,7 +11,7 @@ function buildDocumentation(){
 	exec('cd source  && mkdocs build -d ../www');
 }
 
-app.get('/update/:secret', function (req, res) {
+app.post('/update/:secret', function (req, res) {
   if(req.params.secret == process.env.WEBHOOK_SECRET){
 	buildDocumentation();
 	res.status(200);
